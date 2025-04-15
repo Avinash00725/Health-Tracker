@@ -1,0 +1,7 @@
+pandas
+spacy
+scikit-learn
+plotly
+streamlit
+requests
+beautifulsoup4
