@@ -508,7 +508,6 @@ daily_summary["Total_Risk"] = daily_summary.apply(
         row["Base_Risk"] * 0.5 if row["Is_Underserved"] else 0), axis=1
 )
 
-# Prevention Alerts
 def get_prevention_alert(location, risk, weather):
     tips = []
     if risk > 50:
