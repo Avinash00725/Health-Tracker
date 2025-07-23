@@ -219,6 +219,7 @@ import tempfile  # Temp files for Streamlit Cloud
 import praw  # Reddit API
 import plotly.express as px  # Heatmap and graphs
 import overpy  # OpenStreetMap for underserved areas
+import tweepy
 
 # Set random seed for consistent mock data
 random.seed(42)
