@@ -6,3 +6,4 @@ beautifulsoup4
 praw
 plotly
 overpy
+tweepy
